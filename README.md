@@ -29,13 +29,13 @@ BASE_URL: "https://www.themealdb.com/api/json/v1/1/"
 #### Get Meal Lists
 
 ```
-  GET /search.php?s="
+  GET /search.php?s=
 ```
 
 #### Get Meal Details
 
 ```
-  GET /lookup.php?i=53086"
+  GET /lookup.php?i=53086
 ```
 
 
