@@ -9,12 +9,12 @@
 ## UI
 
 <p align="center">
-  <img src="tablet-list.png" alt="Tablet List" width="400"/>
+  <img src="tablet-list.png" alt="Tablet List" width="600"/>
 </p>
 
 
 <p align="center">
-  <img src="tablet-detail.png" alt="Tablet Detail" width="200"/>
+  <img src="tablet-detail.png" alt="Tablet Detail" width="600"/>
 </p>
 
 <p align="center">
